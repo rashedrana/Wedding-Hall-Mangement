@@ -1,0 +1,148 @@
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.exe
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.deps.json
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.runtimeconfig.json
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.runtimeconfig.dev.json
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.dll
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.pdb
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csprojAssemblyReference.cache
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Properties.Resources.resources
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.GenerateResource.cache
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AssemblyInfoInputs.cache
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AssemblyInfo.cs
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.CoreCompileInputs.cache
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.dll
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.pdb
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.genruntimeconfig.cache
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Home.resources
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Booking.resources
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.ViewBooking.resources
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Staff.resources
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Customer.resources
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Login.resources
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rashe\source\repos\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.CopyComplete
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.exe
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.deps.json
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.runtimeconfig.json
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.runtimeconfig.dev.json
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.pdb
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csprojAssemblyReference.cache
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Booking.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Customer.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Home.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Login.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Properties.Resources.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Staff.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.ViewBooking.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.GenerateResource.cache
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AssemblyInfoInputs.cache
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AssemblyInfo.cs
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.CoreCompileInputs.cache
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.CopyComplete
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.pdb
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.genruntimeconfig.cache
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AdminLogin.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.exe
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.deps.json
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.runtimeconfig.json
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.runtimeconfig.dev.json
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.pdb
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csprojAssemblyReference.cache
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AdminLogin.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Booking.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Customer.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Home.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Login.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Properties.Resources.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Staff.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.ViewBooking.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.GenerateResource.cache
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AssemblyInfoInputs.cache
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AssemblyInfo.cs
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.CoreCompileInputs.cache
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.CopyComplete
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.dll
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.pdb
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.genruntimeconfig.cache
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\Project\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.LoadingForm.resources
+F:\AIUB\8th sem\Object Oriented Programming 2 (C#)\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.LoadingForm.resources
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.exe
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.deps.json
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.runtimeconfig.json
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.runtimeconfig.dev.json
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.dll
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.pdb
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csprojAssemblyReference.cache
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AdminLogin.resources
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Booking.resources
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Customer.resources
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Home.resources
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.LoadingForm.resources
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Login.resources
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Properties.Resources.resources
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Staff.resources
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.ViewBooking.resources
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.GenerateResource.cache
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AssemblyInfoInputs.cache
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AssemblyInfo.cs
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.CoreCompileInputs.cache
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.CopyComplete
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.dll
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.pdb
+C:\Users\rashe\Desktop\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.genruntimeconfig.cache
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.exe
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.deps.json
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.runtimeconfig.json
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.runtimeconfig.dev.json
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.dll
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\WeddingHall.pdb
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csprojAssemblyReference.cache
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AdminLogin.resources
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Booking.resources
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Customer.resources
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Home.resources
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.LoadingForm.resources
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Login.resources
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Properties.Resources.resources
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.Staff.resources
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.ViewBooking.resources
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.GenerateResource.cache
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AssemblyInfoInputs.cache
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.AssemblyInfo.cs
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.CoreCompileInputs.cache
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.csproj.CopyComplete
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.dll
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.pdb
+D:\Courses\C#\WeddingHall Final\WeddingHall\WeddingHall\obj\Debug\netcoreapp3.1\WeddingHall.genruntimeconfig.cache
